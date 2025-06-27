@@ -116,5 +116,10 @@
         "PRIMARY_700": "#0f0f10",
         "PRIMARY_800": "#0C0B0C"
     },
+    "background": {
+        "blur": 0,
+        "url": "https://i.ibb.co/bjW1mt0H/3ffe9cec688fbb2a78130cfb49ead9bc.jpg",
+        "OPACITY": 0.5
+    },
     "spec": 2
 }
